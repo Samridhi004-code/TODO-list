@@ -12,6 +12,7 @@
 /build
 
 # misc
+task-manager-frontend/.env
 .DS_Store
 .env.local
 .env.development.local
